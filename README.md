@@ -36,8 +36,8 @@ I am a versatile person and adapt easily to various tech niches be it Web Develo
     <a href="https://github.com/pranavgupta11/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pranav Gupta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavgupta11&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-    <a href="https://github.com/pranavgupta11/github-readme-stats"><img alt="Pranav Gupta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranavgupta11&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/pranavgupta11/github-readme-stats"><img alt="Pranav Gupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavgupta11&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+    <a href="https://github.com/pranavgupta11/github-readme-stats"><img alt="Pranav Gupta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranavgupta11 &show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/pranavgupta11/github-readme-stats"><img alt="Pranav Gupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavgupta11 &langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
 </p>
 
 <br/>
