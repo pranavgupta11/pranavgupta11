@@ -11,8 +11,8 @@ I am a versatile person and adapt easily to various tech niches be it Web Develo
 <code><img src="./assets/css.svg"/></code>
 <code><img src="./assets/bootstrap.svg"/></code>
 <code><img src="./assets/tailwind.svg" width="70px"/></code>
-<!-- <code><img src="./assets/chakra.png" width="63px"/></code> -->
-<!-- <code><img src="./assets/docker.svg"/></code> -->
+<code><img src="./assets/chakra.png" width="63px"/></code>
+<code><img src="./assets/docker.svg"/></code>
 <code><img src="./assets/firebase.svg"/></code>
 <code><img src="./assets/react.svg"/></code>
 <code><img src="./assets/node.svg"/></code>
@@ -21,11 +21,11 @@ I am a versatile person and adapt easily to various tech niches be it Web Develo
 <code><img src="./assets/c++.svg"/></code>
 <code><img src="./assets/c.svg"/></code>
 <code><img src="./assets/bash-colored.svg"/></code>
-<!-- <code><img src="./assets/android.svg"/></code> -->
-<!-- <code><img src="./assets/graphql.svg"/></code> -->
+<code><img src="./assets/android.svg"/></code>
+<code><img src="./assets/graphql.svg"/></code>
 <code><img src="./assets/git-scm.svg"/></code>
-<!-- <code><img src="./assets/java.svg"/></code> -->
-<!-- <code><img src="./assets/redux.svg"/></code> -->
+<code><img src="./assets/java.svg"/></code>
+<code><img src="./assets/redux.svg"/></code>
 <code><img src="./assets/solidity.png" height="70px" width="70px"/></code>
 
 <br>
